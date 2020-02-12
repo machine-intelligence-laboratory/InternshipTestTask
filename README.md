@@ -9,7 +9,7 @@
 
 Список доступных для решения задач:  
 
-- `cigarette_butt_segmentation`. (Computer Vision) - предложить модель сегментации окурков сигарет. 
+- `cigarette_butt_segmentation` (Computer Vision) - предложить модель сегментации окурков сигарет. 
 
 # Критерии оценивания
 
